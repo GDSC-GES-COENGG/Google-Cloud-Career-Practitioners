@@ -1,3 +1,3 @@
 # Google-Cloud-Career-Practitioners
 Challenge Labs 
-<img src="https://komarev.com/ghpvc/?username=bharambetr2002&label=Profile%20views&color=FF00FF&style=flat" alt="bharambetr2002" />
+<img align="right" alt="GIF" height="300px" src="https://github.com/bharambetr2002/bharambetr2002/blob/main/coding.gif" />
